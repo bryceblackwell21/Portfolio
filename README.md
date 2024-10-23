@@ -5,7 +5,7 @@
 
 Welcome to my data portfolio! Here, I document a summary of my projects in SQL, Python, R, and Tableau 
 
-<h3> Note the below are example projects. These will be removed shortly and replaced with other projects as I get further along in my data journey. </h3>
+<h3> Note the below are example projects. These will be removed shortly and replaced with other projects as I get further along in my data journey. Credit to KatieHuangx for the template </h3>
 
 
 ## 📚 Table of Contents
