@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in SQL, 
 - [Python](#python)
 - [Tableau](#tableau)
 
-# Data Engineering
+# Full Stack Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
