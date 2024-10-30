@@ -14,6 +14,15 @@ Welcome to my data portfolio! Here, I document a summary of my projects in SQL, 
 - [Python](#python)
 - [Tableau](#tableau)
 
+- ***
+
+# Tableau
+
+| Project Link | Project Description | Dashboard Link |
+|---|---|---|
+| 🚀 [Launch Vehicle Historical Analysis](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Cleansed and transformed global launch vehicle data using Prep Builder with custom geocoding for accurate site and country mapping. Created Tableau visualizations to analyze launch trends, private sector growth, site expansions, and launch vehicle success rates, highlighting shifts in activity and regional leadership in the New Space Era. | [Workbook](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) |
+| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
+
 # Full Stack Data Engineering
 
 | Project Link | Completion Date | Tools | Project Description | 
@@ -45,11 +54,4 @@ Welcome to my data portfolio! Here, I document a summary of my projects in SQL, 
 | 🛍 [Super Store Analysis](https://github.com/katiehuangx/Super-Store-Analysis/blob/main/Super_Store_Analysis.ipynb) | EDA | Analysis of sales data to find out highest revenue and profit product categories and top customer segments. | pandas, matplotlib, seaborn |
 | 🏃🏻‍♀️ [Bellabeat Fitness Tracking Analysis](https://github.com/katiehuangx/Google-Data-Analytics-Capstone/blob/main/bellabeat-data-analysis.ipynb) | EDA | Discovered insights into whether users are using the FitBit app for tracking health habits, their frequency of usage across the week and whether there is correlation between the hours logged, number of steps taken and calories burnt. | pandas, matplotlib, seaborn |
 
-***
 
-# Tableau
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
-| 🦄 [Launch Vehicle Analysis](TBD Link) | Cleansed and transformed data to make analays on launch vehicles. in privately-owned companies (start-ups) valued at over $1 billion using Python. Visualised key insights using Tableau, including the timeline of valuations, the top 10 countries and investors with the highest valuations, the most successful unicorns, and the average time it takes to reach a $1 billion valuation. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/UnicornCompanies_16502745371460/Unicorns?publish=yes) |
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases in Malaysia and the impact on the KLSE stock market from Jan 2020 to Jul 2021 using SQL and Tableau. | [Dashboard](https://public.tableau.com/app/profile/katie.huang/viz/Covid-19anditsimpactonKLSEIndexPriceinMalaysia/Dashboard1) |
