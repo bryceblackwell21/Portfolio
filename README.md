@@ -7,7 +7,7 @@ Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Pyt
 - [Tableau](#tableau)
 - [SQL](#sql)
 - [Python](#python)
-- [R](#r)
+- [Excel](#excel)
 - [Other Projects](#other-projects)
 
 ***
@@ -17,34 +17,34 @@ Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Pyt
 | Project Link | Project Description | Dashboard Link | Visualization Techniques |
 |--------------|---------------------|----------------|--------------------------|
 | 🚀 [Launch Vehicle Historical Analysis](https://github.com/bryceblackwell21/Launch-Vehicle-Historical-Analysis) | Cleansed and transformed global launch vehicle data using Prep Builder with custom geocoding for accurate site and country mapping. Created Tableau visualizations to analyze launch trends, private sector growth, site expansions, and launch vehicle success rates, highlighting shifts in activity and regional trends. | [Dashboard Link](https://public.tableau.com/views/LaunchVehicleAnalysis/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | Time series analysis, geographic mapping, trend analysis |
-
-
+| 🏅 [NYC Marathon Visualization](https://github.com/bryceblackwell21/NYCMarathonAnalysis)      | Custom geospatial mapping and visualizations using marathon runner data to uncover trends across course segments and runner demographics. The visualization focuses on split times, demographic insights, and key course challenges, including mile 18’s “the wall.” | [NYC Marathon Dashboard](https://bryceblackwell21.github.io/NYCMarathonAnalysis/nycmarathonviz) (to be added) | Geospatial mapping, trend analysis   |
 
 ***
 
 # SQL
 
-| Project Link | Dataset Description | SQL Skills Demonstrated | Complexity Level |
-|--------------|---------------------|-------------------------|------------------|
-| 📊 [Project Name](#) | Brief description of the dataset and purpose. | List of SQL skills or techniques applied (e.g., joins, window functions) | Easy, Medium, or Advanced |
-
-***
-
-# Python
-
-| Project Link | Script Description | Libraries Used | Key Algorithms |
-|--------------|--------------------|----------------|----------------|
-| 🐍 [Project Name](#) | Brief description of the script's functionality and objectives. | Libraries (e.g., Pandas, NumPy, Matplotlib) | Key algorithms or techniques (e.g., linear regression, clustering) |
+| Project Link                                                                                 | Dataset Description                                           | SQL Skills Demonstrated                               | Complexity Level |
+|----------------------------------------------------------------------------------------------|---------------------------------------------------------------|------------------------------------------------------|------------------|
+| 📊 [MySQL YouTube Series](https://github.com/bryceblackwell21/MySQL-YouTube-Series)          | Exercises from a MySQL Bootcamp following AlexTheAnalyst's YouTube series, covering SQL basics to advanced topics with hands-on examples and data manipulation. | Query building, joins, subqueries, CTEs, stored procedures, window functions | Moderate |
 
 
 ***
 
-# R
+### Python
+
+| Project Link                                                                                  | Script Description                                                                                       | Libraries Used                 | Key Skills                                         |
+|-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------|----------------------------------------------------|
+| 🐍 [NYC Marathon Data Scraper](https://github.com/bryceblackwell21/NYCMarathonAnalysis)       | Python script that scrapes split times and runner demographics for 10,000 NYC Marathon participants to analyze course challenges, split trends, and performance by runner demographics. | Beautiful Soup, Selenium       | Web scraping, data extraction, dynamic content handling |
+
+***
+
+# Excel
 *Under Construction*
 
-| Project Link | Project Description | Skills Highlighted | Tools Used |
-|--------------|---------------------|--------------------|------------|
-| 🚧 [Project Name](#) | Brief description of the project goals and methods. | Key skills (e.g., ETL, data pipelines) | Relevant tools (e.g., Apache Spark, Airflow) |
+| Project Link | Project Description | Key Excel Skills Demonstrated | Complexity Level |
+|--------------|---------------------|-------------------------------|------------------|
+| 📈 [Project Name](#) | Brief description of the project’s purpose and the Excel techniques used. | Skills like pivot tables, advanced formulas, data visualization, and VBA | Easy, Medium, or Advanced |
+
 
 ***
 
