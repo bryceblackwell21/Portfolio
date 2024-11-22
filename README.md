@@ -7,7 +7,6 @@ Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Pyt
 - [Tableau](#tableau)
 - [SQL](#sql)
 - [Python](#python)
-- [Excel](#excel)
 - [Other Projects](#other-projects)
 
 ***
@@ -36,15 +35,6 @@ Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Pyt
 | Project Link                                                                                  | Script Description                                                                                       | Libraries Used                 | Key Skills                                         |
 |-----------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|--------------------------------|----------------------------------------------------|
 | 🐍 [NYC Marathon Data Scraper](https://github.com/bryceblackwell21/NYCMarathonAnalysis)       | Python script that scrapes split times and runner demographics for 10,000 NYC Marathon participants to analyze course challenges, split trends, and performance by runner demographics. | Beautiful Soup, Selenium       | Web scraping, data extraction, dynamic content handling |
-
-***
-
-# Excel
-*Under Construction*
-
-| Project Link | Project Description | Key Excel Skills Demonstrated | Complexity Level |
-|--------------|---------------------|-------------------------------|------------------|
-| 📈 [Project Name](#) | Brief description of the project’s purpose and the Excel techniques used. | Skills like pivot tables, advanced formulas, data visualization, and VBA | Easy, Medium, or Advanced |
 
 
 ***
