@@ -1,6 +1,6 @@
 # 🗺 Bryce's Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Python, R, and other projects.  
+Welcome to my portfolio! Here, I document a summary of my Tableau, SQL, Python, R, and other projects.  
 *Note: Projects are continually updated as I progress. See individual project repos for the latest files.*
 
 ## 📚 Table of Contents
@@ -44,4 +44,4 @@ Welcome to my data portfolio! Here, I document a summary of my Tableau, SQL, Pyt
 | Project Link | Project Description | Skills Used |
 |--------------|---------------------|-------------|
 | 🌐 [Personal Website](https://github.com/bryceblackwell21/portfolio-page) | Developed a personal portfolio website using GitHub Pages. The project includes custom HTML, CSS, and JavaScript to create a responsive and visually appealing landing page showcasing personal projects and skills. | HTML, CSS, JavaScript, GitHub Pages |
-
+| 🎉 [Fun Facts App](https://github.com/bryceblackwell21/FunFactApp)                        | A Bolt-powered mobile app that delivers fun and interesting facts in an interactive format. Built using TypeScript with a focus on efficient state management and modular design. | TypeScript, Bolt, state management, UI design, deployment |
